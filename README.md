@@ -1,9 +1,14 @@
 ### Greetings!
 <div style="text-align: justify"> 
-I'm Gultembergue, an engineer looking for a career shift to the Dev World! I've worked mostly with science oritented progamming languages but have begun the shift to others by learning C#, Javascript, html and css and associated frameworks with the goal of becoming a fullstack web developer. I'm alway seeking growth and improvement by constantly learning and applying my knowledge to real world problems. 
+I'm Gultembergue, a mechanical engineer looking for a career shift to the Dev World! I've worked mostly with science and math focused progamming languages and have already begun the shift to more commonly used ones by learning <strong>C#, Javascript, html and css and associated frameworks</strong> with the goal of becoming a fullstack web developer. I'm always seeking growth and improvement by constantly learning and applying my knowledge to real world problems. 
 </div>
 
+##### Here's some things I wish to do:
+- Improve my skills as a developer
+- Work on different projects and learn about the best practices of each language
+- Learn more about the best cutting edge technologies used in the workplace
 
+If you can help me with those through a job opportunity don't hesitate to send me an email!
 <!--
 **gcrOliveira/gcrOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
