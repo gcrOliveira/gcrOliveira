@@ -1,5 +1,5 @@
 ### Greetings!
-<div style="text-align: justify> I'm Gultembergue, an engineer looking for a career shift to the Dev World! I've worked mostly with science oritented progamming languages but have begun the shift to others by learning C#, Javascript, html and css and associated frameworks with the goal of becomming a fullstack web developer. I'm alway seeking growth and improvement by constantly learning and applying my knowledge to real world problems. 
+<div style="text-align: justify"> I'm Gultembergue, an engineer looking for a career shift to the Dev World! I've worked mostly with science oritented progamming languages but have begun the shift to others by learning C#, Javascript, html and css and associated frameworks with the goal of becomming a fullstack web developer. I'm alway seeking growth and improvement by constantly learning and applying my knowledge to real world problems. 
  </div>
 
 
